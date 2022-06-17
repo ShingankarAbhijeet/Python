@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Coursera_data_structures/.idea/Coursera_data_structures.iml" filepath="$PROJECT_DIR$/../Coursera_data_structures/.idea/Coursera_data_structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coursera/.idea/coursera.iml" filepath="$PROJECT_DIR$/../coursera/.idea/coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonhappy.iml" filepath="$PROJECT_DIR$/.idea/pythonhappy.iml" />
+    </modules>
+  </component>
+</project>
